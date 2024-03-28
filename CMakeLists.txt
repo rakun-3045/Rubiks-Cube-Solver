@@ -3,4 +3,9 @@ project(RubiksCubeSolver)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(RubiksCubeSolver main.cpp)
+add_executable(RubiksCubeSolver main.cpp
+        RubikCubeBitBoardRep.cpp
+        RubikCube3DRep.cpp
+        RubikCube1DRep.cpp
+        RubikCube.cpp
+)
