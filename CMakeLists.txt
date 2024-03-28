@@ -11,4 +11,8 @@ add_executable(RubiksCubeSolver main.cpp
         IDDFSsolver.h
         BFSsolver.h
         DFSsolver.h
+        Pattern_dbs/PermutationIndexer.h
+        Pattern_dbs/patternDB.cpp
+        Pattern_dbs/math.h
+        Pattern_dbs/math.cpp
 )
