@@ -1,5 +1,5 @@
 //
-// Created by karthik on 12/3/24.
+// Created by rakun on .
 //
 #include "RubikCube.h"
 #include "DFSsolver.h"
